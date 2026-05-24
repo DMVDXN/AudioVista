@@ -64,7 +64,7 @@ export default function ArtistDetailPage({
           <ArrowLeft className="size-4" /> Back to artists
         </Link>
         <div className="card text-sm text-text-muted">
-          No artist found in this dataset matching "{decodeURIComponent(slug)}".
+          No artist found in this dataset matching &quot;{decodeURIComponent(slug)}&quot;.
         </div>
       </div>
     );
