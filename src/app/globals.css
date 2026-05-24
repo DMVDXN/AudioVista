@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-bg text-text antialiased font-sans;
+    background-image:
+      radial-gradient(60% 50% at 50% 0%, rgba(139, 92, 246, 0.12) 0%, transparent 70%),
+      radial-gradient(40% 40% at 100% 100%, rgba(34, 211, 238, 0.08) 0%, transparent 70%);
+    background-attachment: fixed;
+  }
+  *::selection {
+    @apply bg-brand-violet/40 text-white;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-border bg-bg-elevated/60 backdrop-blur-sm p-6 shadow-lg shadow-black/20;
+  }
+  .heading-gradient {
+    @apply bg-brand-gradient bg-clip-text text-transparent;
+  }
+  .input,
+  .select {
+    @apply w-full rounded-lg border border-border bg-bg/60 px-3 py-1.5 text-sm focus:border-brand-violet/60 focus:outline-none;
+  }
+  .select {
+    @apply appearance-none;
+  }
+}

@@ -1,0 +1,56 @@
+id,name,artist,album,year,popularity,danceability,energy,valence,tempo,acousticness,instrumentalness,speechiness,genre
+1,Blinding Lights,The Weeknd,After Hours,2020,96,0.514,0.730,0.334,171.005,0.001,0.000,0.060,pop
+2,As It Was,Harry Styles,Harry's House,2022,94,0.520,0.731,0.662,173.930,0.342,0.001,0.055,pop
+3,Anti-Hero,Taylor Swift,Midnights,2022,93,0.637,0.643,0.533,97.008,0.135,0.000,0.057,pop
+4,Flowers,Miley Cyrus,Endless Summer Vacation,2023,95,0.707,0.681,0.646,118.040,0.061,0.000,0.034,pop
+5,Kill Bill,SZA,SOS,2022,91,0.644,0.735,0.418,89.000,0.477,0.000,0.044,r&b
+6,Cruel Summer,Taylor Swift,Lover,2019,92,0.552,0.702,0.564,170.000,0.117,0.000,0.157,pop
+7,Last Night,Morgan Wallen,One Thing at a Time,2023,89,0.520,0.520,0.480,204.000,0.470,0.000,0.030,country
+8,Calm Down,Rema,Rave & Roses,2022,90,0.808,0.690,0.802,107.000,0.431,0.000,0.046,afrobeats
+9,Unholy,Sam Smith,Gloria,2022,88,0.714,0.473,0.211,131.000,0.013,0.000,0.085,pop
+10,Vampire,Olivia Rodrigo,GUTS,2023,87,0.503,0.522,0.124,138.000,0.612,0.000,0.029,pop
+11,Snooze,SZA,SOS,2022,86,0.741,0.531,0.412,143.000,0.291,0.000,0.064,r&b
+12,Rich Flex,Drake,Her Loss,2022,85,0.561,0.521,0.330,115.000,0.130,0.000,0.392,hip-hop
+13,God's Plan,Drake,Scorpion,2018,90,0.754,0.449,0.357,77.000,0.033,0.000,0.109,hip-hop
+14,Sunflower,Post Malone,Spider-Verse,2018,93,0.764,0.522,0.913,90.000,0.557,0.000,0.046,hip-hop
+15,Circles,Post Malone,Hollywood's Bleeding,2019,89,0.695,0.762,0.553,120.000,0.192,0.000,0.041,pop
+16,Watermelon Sugar,Harry Styles,Fine Line,2019,87,0.548,0.816,0.557,95.000,0.122,0.000,0.046,pop
+17,bad guy,Billie Eilish,WHEN WE ALL FALL ASLEEP,2019,90,0.701,0.425,0.562,135.000,0.328,0.131,0.375,pop
+18,Lovely,Billie Eilish,lovely,2018,88,0.351,0.296,0.124,115.000,0.897,0.000,0.029,pop
+19,Heat Waves,Glass Animals,Dreamland,2020,89,0.761,0.525,0.531,80.870,0.440,0.001,0.094,indie
+20,Levitating,Dua Lipa,Future Nostalgia,2020,88,0.702,0.825,0.915,103.000,0.008,0.000,0.057,pop
+21,Don't Start Now,Dua Lipa,Future Nostalgia,2019,87,0.793,0.793,0.677,124.000,0.012,0.000,0.083,pop
+22,Save Your Tears,The Weeknd,After Hours,2020,89,0.681,0.826,0.644,118.000,0.022,0.000,0.031,pop
+23,Starboy,The Weeknd,Starboy,2016,88,0.679,0.587,0.535,186.000,0.165,0.000,0.276,pop
+24,One Dance,Drake,Views,2016,90,0.792,0.625,0.370,104.000,0.007,0.002,0.054,hip-hop
+25,Hotline Bling,Drake,Views,2015,84,0.898,0.564,0.553,135.000,0.005,0.000,0.061,hip-hop
+26,Shape of You,Ed Sheeran,÷,2017,93,0.825,0.652,0.931,96.000,0.581,0.000,0.080,pop
+27,Perfect,Ed Sheeran,÷,2017,90,0.599,0.448,0.168,95.000,0.163,0.000,0.023,pop
+28,Photograph,Ed Sheeran,x,2014,84,0.614,0.379,0.220,108.000,0.607,0.000,0.027,pop
+29,Bad Habit,Steve Lacy,Gemini Rights,2022,87,0.686,0.494,0.474,168.000,0.547,0.063,0.034,r&b
+30,About Damn Time,Lizzo,Special,2022,82,0.836,0.741,0.683,109.000,0.072,0.000,0.039,pop
+31,First Class,Jack Harlow,Come Home the Kids Miss You,2022,80,0.905,0.563,0.357,107.000,0.131,0.000,0.071,hip-hop
+32,Industry Baby,Lil Nas X,MONTERO,2021,86,0.736,0.704,0.894,150.000,0.011,0.000,0.083,hip-hop
+33,Stay,The Kid LAROI,F*CK LOVE 3,2021,89,0.591,0.764,0.478,170.000,0.038,0.000,0.048,pop
+34,Peaches,Justin Bieber,Justice,2021,85,0.677,0.696,0.464,90.000,0.323,0.000,0.124,pop
+35,Ghost,Justin Bieber,Justice,2021,83,0.585,0.741,0.665,151.000,0.158,0.000,0.029,pop
+36,drivers license,Olivia Rodrigo,SOUR,2021,88,0.585,0.436,0.132,144.000,0.721,0.000,0.057,pop
+37,good 4 u,Olivia Rodrigo,SOUR,2021,89,0.563,0.664,0.688,166.000,0.335,0.000,0.154,pop
+38,Easy On Me,Adele,30,2021,87,0.604,0.366,0.130,142.000,0.578,0.000,0.028,pop
+39,Hello,Adele,25,2015,84,0.434,0.443,0.140,79.000,0.331,0.000,0.030,pop
+40,Rolling in the Deep,Adele,21,2010,84,0.730,0.769,0.507,105.000,0.138,0.000,0.040,pop
+41,Espresso,Sabrina Carpenter,Short n' Sweet,2024,93,0.700,0.594,0.685,103.965,0.337,0.000,0.029,pop
+42,Lose Control,Teddy Swims,I've Tried Everything,2023,90,0.668,0.704,0.451,108.000,0.276,0.000,0.034,pop
+43,Paint The Town Red,Doja Cat,Scarlet,2023,86,0.873,0.490,0.795,100.000,0.252,0.000,0.131,hip-hop
+44,Snooze (Remix),SZA,SOS Deluxe,2023,82,0.741,0.520,0.405,143.000,0.290,0.000,0.060,r&b
+45,Cupid,FIFTY FIFTY,The Beginning,2023,80,0.787,0.622,0.870,119.000,0.235,0.000,0.040,k-pop
+46,Yebba's Heartbreak,Drake,Certified Lover Boy,2021,72,0.310,0.290,0.190,142.000,0.690,0.000,0.040,hip-hop
+47,Take Care,Drake,Take Care,2011,82,0.580,0.690,0.510,99.000,0.060,0.000,0.080,hip-hop
+48,August,Taylor Swift,folklore,2020,84,0.530,0.620,0.450,90.000,0.366,0.000,0.030,indie
+49,cardigan,Taylor Swift,folklore,2020,85,0.613,0.581,0.553,130.000,0.537,0.000,0.043,indie
+50,Willow,Taylor Swift,evermore,2020,82,0.392,0.574,0.529,82.000,0.832,0.000,0.034,indie
+51,Bohemian Rhapsody,Queen,A Night at the Opera,1975,82,0.392,0.402,0.232,72.000,0.288,0.000,0.054,rock
+52,Smells Like Teen Spirit,Nirvana,Nevermind,1991,79,0.502,0.912,0.720,117.000,0.000,0.000,0.062,rock
+53,Wonderwall,Oasis,Morning Glory,1995,80,0.408,0.892,0.654,87.000,0.000,0.000,0.054,rock
+54,Hey Ya!,OutKast,Speakerboxxx,2003,82,0.731,0.974,0.964,160.000,0.001,0.000,0.072,hip-hop
+55,Empire State of Mind,Jay-Z,The Blueprint 3,2009,79,0.515,0.834,0.508,173.000,0.022,0.000,0.291,hip-hop
